@@ -16,7 +16,7 @@ The dashboard includes several key visualizations to help users interpret the da
 
 1. **Monthly Sales Trends**
    Provides a month-over-month breakdown of sales, highlighting seasonal peaks and variations.
-   ![Monthly Sales Trends](monthly_sales_trends.png)
+   ![Monthly Sales Trends](monthly_sales_trend.png)
 
 2. **Sales Variability**
    Analyzes the standard deviation in sales across different products and regions, giving insights into market stability.
