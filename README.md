@@ -37,4 +37,3 @@ To view and interact with the dashboard:
 2. If R integration features are required to run locally, ensure R and the `Rserve` package are installed and running.
 3. Open the `Sweets Distribution Dashboard.twbx` file in Tableau.
 
-*(Note: Please add the actual chart screenshots to the `images/` directory to replace the placeholders.)*
