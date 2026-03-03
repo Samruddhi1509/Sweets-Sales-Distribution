@@ -16,19 +16,15 @@ The dashboard includes several key visualizations to help users interpret the da
 
 1. **Monthly Sales Trends**
    Provides a month-over-month breakdown of sales, highlighting seasonal peaks and variations.
-   ![Monthly Sales Trends](images/monthly_sales_trends.png)
+   ![Monthly Sales Trends](monthly_sales_trends.png)
 
 2. **Sales Variability**
    Analyzes the standard deviation in sales across different products and regions, giving insights into market stability.
-   ![Sales Variability](images/sales_variability.png)
+   ![Sales Variability](sales_variability.png)
 
 3. **Regional Performance**
    A geographical view of sales distribution, illustrating which regions are leading in revenue.
-   ![Regional Performance](images/regional_performance.png)
-
-4. **Sentiment Analysis (R Generated)**
-   Visualizes the sentiment scores derived from R-based analysis, showing customer satisfaction levels for different candy products.
-   ![Sentiment Analysis](images/sentiment_analysis.png)
+   ![Regional Performance](regional_performance.png)
 
 ## Technology Stack
 - **Tableau:** Primary visualization and dashboarding tool.
